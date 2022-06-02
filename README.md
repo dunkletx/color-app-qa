@@ -1,2 +1,2 @@
 # color-app-qa
-For testing a python application to create a simple application creating a container image using OpenShift
+For testing a python application using RedHat OpenShift to create container image and manage the deployment of the app.
